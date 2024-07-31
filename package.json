@@ -1,0 +1,9 @@
+{
+  "name": "eslint-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repro.js",
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}
